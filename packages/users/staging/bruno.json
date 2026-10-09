@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "fraud-staging-2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
